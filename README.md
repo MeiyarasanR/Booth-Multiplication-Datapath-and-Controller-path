@@ -127,15 +127,6 @@ The value **–32768 (0x8000)** cannot be negated in 16-bit two’s complement.
 
 ---
 
-## 🚀 Suitable For
-- VLSI Placement Projects
-- Digital Design Interviews
-- Booth Algorithm Demonstration
-- Controller–Datapath Based Designs
-- RTL Design Portfolios
-
----
-
 ## 📌 Author
 **Meiyarasan R**  
 Electronics & Communication Engineering  
